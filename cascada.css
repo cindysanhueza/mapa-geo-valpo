@@ -1,7 +1,9 @@
 
 
 body{
-family-font:arial;
+font-family:sans-serif;
+margin:100px 200px 300px 200px 
+
 	 
 }
 
@@ -23,6 +25,6 @@ h5{
 
 }
 
-span{
+span.destacado{
 	font-style: italic;
 }
